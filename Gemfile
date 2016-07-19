@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+gem 'capybara'
+gem 'cucumber'
+gem 'headless'
+gem 'rspec'
+gem 'selenium-webdriver'
+gem 'activesupport'
+gem 'site_prism'
+gem 'byebug'
+gem 'rubocop'
+gem 'rubocop-checkstyle_formatter', require: false
